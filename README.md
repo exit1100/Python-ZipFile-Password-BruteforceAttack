@@ -38,3 +38,6 @@ zip file path와 dictionary file path 경로를 지정해주면 자동으로 대
 고정된 비밀번호를 제외한 나머지 자리를 입력받은 chars의 모든 경우의 수로 대입한다.  
 자릿 수를 문자와 공백으로 지정해주기 때문에 자릿 수를 따로 입력받지 않는다.  
 #
+
+tistory : https://she11.tistory.com/79  
+#

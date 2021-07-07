@@ -20,6 +20,7 @@ zip file path와 dictionary file path 경로를 지정해주면 자동으로 대
 출력된 비밀번호로 압축파일 속의 정보들을 확인할 수 있다.  
 #
   
+  
 2) static_StartEnd_unlock_zip.py
 
 ![4](https://user-images.githubusercontent.com/85146195/123521194-3420ec00-d6f0-11eb-9b06-501855a3e5ea.JPG)
@@ -28,6 +29,7 @@ zip file path와 dictionary file path 경로를 지정해주면 자동으로 대
 25는 비밀번호에 고정되고 나머지 자리를 입력받은 chars의 모든 경우의 수로 대입한다.  
 앞 또는 뒤에서 고정된 비밀번호를 사용하게 되면 그만큼 경우의 수가 줄어든다.  
 #
+  
   
 3) oneclick_unlock_zip.py
 

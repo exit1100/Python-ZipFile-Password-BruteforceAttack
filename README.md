@@ -29,7 +29,7 @@ zip file path와 dictionary file path 경로를 지정해주면 자동으로 대
 앞 또는 뒤에서 고정된 비밀번호를 사용하게 되면 그만큼 경우의 수가 줄어든다.  
 #
 
-3) 3)oneclick_unlock_zip.py
+3) oneclick_unlock_zip.py
 
 ![5](https://user-images.githubusercontent.com/85146195/123521395-4b140e00-d6f1-11eb-9f68-b7c444f2218b.JPG)
 

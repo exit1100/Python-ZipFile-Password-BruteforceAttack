@@ -1,4 +1,4 @@
-# zip 파일 비밀번호 무차별 대입 공격(brute-force attack)
+# ZipFile Password Crack
 
 1-1) dictionary.py
 
